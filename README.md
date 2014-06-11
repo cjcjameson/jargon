@@ -11,6 +11,8 @@
 + Ham-handed, ham-fisted https://en.wiktionary.org/wiki/ham-handed
 + Munge: to manipulate and/or obscure data, taking an existing data set and often making fake data out of it.
 + Cognitive Load: how much human mental capacity it takes to keep track of things
++ Pane: A sub-unit of a window. kinda like a tab. Not to be confused with its homophone "pain"
++ Hunky Dory: All good. Swell. Peachy Keen. Resting easy. Content-verging-on-Happy
 
 
 ##Agile Jargon
