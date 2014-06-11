@@ -26,9 +26,8 @@
 + Scrum
 + Stakeholder
 
-##Metasyntactic Variables
+##[Metasyntactic Variables](http://en.wikipedia.org/wiki/Metasyntactic_variable)
 ###Metasyntactic Variables are placeholder phrases that represent where you might use a variable name or something else.
-####http://en.wikipedia.org/wiki/Metasyntactic_variable
 + Foo, Bar, Foobar, Baz, etc. https://en.wikipedia.org/wiki/Foobar
 
 ###Kinda like metasyntactic variables
@@ -38,6 +37,10 @@
 	- Free stuff, especially given out at conferences or when you join a company
 	- The coolness in how you carry yourself
 	- originally, pirate's booty from looting
+
+##HTTP Status Codes
++ [HTTP Status Rappers](http://en.wikipedia.org/wiki/Metasyntactic_variable)
++ [418: I'm a teapot](https://en.wikipedia.org/wiki/Hyper_Text_Coffee_Pot_Control_Protocol)
 
 ##Memes and inside jokes
 + Drag-n-drop dragons
